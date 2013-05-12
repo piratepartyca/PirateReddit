@@ -1,6 +1,11 @@
-#header {
-border-bottom: 2px solid rgb(0, 0, 0);
-background-color: rgb(113, 0, 162);
+#header{
+	min-height: 150px;
+	background: #fff url('%%skyline22%%') repeat-x scroll 0px 80%!important;
+}
+
+#header-bottom-left {
+	position: absolute;
+	bottom: 0;
 }
 .pagename a {
 color:rgb(113, 0, 162);
